@@ -1,0 +1,20 @@
+{
+    "45912223": {
+        "nombre": "Tiago",
+        "apellido": "Teresczuk",
+        "edad": 22,
+        "nota": 8.0
+    },
+    "45876132": {
+        "nombre": "jose manuel",
+        "apellido": "de la rua",
+        "edad": 24,
+        "nota": 7.0
+    },
+    "46987209": {
+        "nombre": "maria jose",
+        "apellido": "del carmen",
+        "edad": 23,
+        "nota": 10.0
+    }
+}
